@@ -4,7 +4,7 @@
 
 ## CyberGuard机场机场介绍
 
-[CyberGuard机场](https://www.11meigui.com/2024/cyberguard-vpn.html)是一家专注于提供高速、稳定和安全网络加速服务总部位于美国的[机场](https://clashsub.org)，采用IEPL/IPLC企业级专线，确保高峰时段和特殊时期的流畅连接。其节点覆盖全球多个地区，包括香港、日本、韩国、新加坡、美国、德国、荷兰等，支持Netflix、Disney+等流媒体解锁，满足不同用户的需求。此外，CyberGuard兼容Windows、macOS、iOS、Android等多个平台，支持无限设备连接，并提供多种支付方式，如支付宝、微信支付和加密货币，是追求高质量网络加速用户的理想选择。
+[CyberGuard机场](https://www.11meigui.com/2024/cyberguard-vpn.html)(又称CG加速器)是一家成立于2023年专注于提供高速、稳定和安全网络加速服务总部位于美国的[机场](https://clashsub.org)，采用IEPL/IPLC企业级专线，确保高峰时段和特殊时期的流畅连接。其节点覆盖全球多个地区，包括香港、日本、韩国、新加坡、美国、德国、荷兰等，支持Netflix、Disney+等流媒体解锁，满足不同用户的需求。此外，CyberGuard兼容Windows、macOS、iOS、Android等多个平台，支持无限设备连接，并提供多种支付方式，如支付宝、微信支付和加密货币，是追求高质量网络加速用户的理想选择。
 
 ### 主要特征
 
@@ -50,6 +50,9 @@
 
 ## CyberGuard机场套餐价格
 
+<img width="1169" alt="image" src="https://github.com/user-attachments/assets/ec66c1be-8a5d-4bc3-9438-08293969fd72" />
+
+
 | **套餐名称**       | **价格**         | **流量**   | **重置期限**       | **最高速率**   | **设备支持**           |  **可选周期**               |
 |:-------------------|:-------------------|:---------------|:---------------------------------------|:-----------------------------------|:------------------------|:---------------------------|
 | 100G 轻量套餐      | ¥18.00 /每月     | 每月100G   | 每月自动重置       | 300Mbps       | 不限制设备数量          |  月度 |
@@ -58,6 +61,31 @@
 | 200G 流量包（不限时） | ¥79.00 /一次性   | 200G       | 无（一次性）       | 1000Mbps     | 不限制设备数量          | 无                         |
 | 700G 流量包（不限时） | ¥188.00 /一次性  | 700G       | 无（一次性）       | 1000Mbps     | 不限制设备数量          | 无                         |
 | 2T 企业套餐        | ¥200.00 /每月    | 每月2T     | 每月自动重置       | 1000Mbps      | 不限制设备数量          |  月度 | 
+
+## CyberGuard机场常见问题
+1. CyberGuard机场靠谱吗？
+   CyberGuard机场成立2023年，当前仍在正常运营中。
+   
+2.CyberGuard机场提供按量付费套餐吗？
+提供的，200G/79￥，700G/188￥套餐。
+
+3、CyberGuard机场支持哪些客服端？
+
+CyberGuard机场支持以下客户端：
+
+- **Windows**：Clash Verge、v2rayN、Clash for Windows、NekoRay、clashN、Clash Verge Rev、Clash Nyanpasu、sing-box。 
+
+- **macOS**：Clash Verge、V2rayU、ClashX、ClashX Pro、Stash、Clash for Windows、Quantumult X、Clash Nyanpasu、Clash Verge Rev、sing-box。 
+
+- **iOS**：Potatso Lite、Quantumult、Quantumult X、Shadowrocket、Stash、sing-box。 
+
+- **Android**：v2rayNG、Surfboard、Clash for Android、NekoBox for Android、sing-box。 
+
+- **路由器**：OpenClash、PassWall2、SSRplus。 
+
+- **Linux**：Clash Verge、Clash for Windows、NekoRay、Clash Nyanpasu、Clash Verge Rev。 
+
+此外，订阅链接无需转换，常用的Quantumult X、ShadowRocket、Loon、Stash和Clash等客户端均可完美支持。 
 
 
 
